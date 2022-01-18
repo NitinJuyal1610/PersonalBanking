@@ -1,9 +1,10 @@
-##Project Bankist
--Track the transaction between two accounts
-1.Account1
-  -username:>nj
-  -password:>1610
-3.Account2
-  -username:>n
-  -password:>2222
+# Project Bankist
+## Web Prototype of Banking Transaction
+- Track the transaction between two accounts,Loan
+> Account1
+  - username: **nj**
+  - password: **1610**
+> Account2
+  - username: **n**
+  - password: **2222**
 
